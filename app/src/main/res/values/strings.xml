@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jasonette</string>
+    <string name="url">https://jasonbase.com/things/prd.json</string>
+</resources>
